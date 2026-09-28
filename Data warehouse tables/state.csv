@@ -1,0 +1,790 @@
+"id","state_name"
+1,N/A
+2,NY
+3,"0"
+4,Texas
+5,Washington
+6,TX
+7,California
+8,Stockholm
+9,CA
+10,Illinois
+11,Southern Finland
+12,Noord-Brabant
+13,Noord-Holland
+14,NJ
+15,BW
+16,Ohio
+17,NC
+18,New York
+19,DC
+20,London
+21,Hessen
+22,England
+23,Pennsylvania
+24,Karnataka
+25,MA
+26,OH
+27,North Carolina
+28,Maharashtra
+29,MD
+30,Connecticut
+31,VA
+32,WA
+33,Middlesex
+34,ON
+35,Baselstadt
+36,Quebec
+37,Va
+38,New Jersey
+39,Michigan
+40,MI
+41,IL
+42,GA
+43,Georgia
+44,MO
+45,Virginia
+46,Cambridgeshire
+47,France
+48,ma
+49,Massachusetts
+50,Indiana
+51,Tennessee
+52,PA
+53,Uttar Pradesh
+54,Wisconsin
+55,Ontario
+56,MN
+57,North Rhine-Westphalia
+58,Zurich
+59,Île-de-France
+60,Paris -  Issy-les-Moulineaux
+61,Utrecht
+62,CO
+63,OR
+64,CT
+65,VGR
+66,Minnesota
+67,Maryland
+68,DE
+69,Ireland
+70,Arizona
+71,Paris
+72,FL
+73,WI
+74,-
+75,wa
+76,Arkansas
+77,il
+78,Québec
+79,Zuid-Holland
+80,ca
+81,NSW
+82,Idaho
+83,Kentucky
+84,D.C.
+85,North Holland
+86,AZ
+87,Paris Region
+88,Fl
+89,Berkshire
+90,Florida
+91,West Sussex
+92,tx
+93,Noord Holland
+94,Rhineland-Palatinate
+95,South Holland
+96,RI
+97,Montana
+98,KY
+99,District of Columbia
+100,Weybridge
+101,Ile de France
+102,Georgia 
+103,Colorado
+104,Hertfordshire
+105,TN
+106,SC
+107,pa
+108,Baden-Württemberg
+109,Bavaria
+110,Basel
+111,Auvergne-Rhône-Alpes
+112,Geneva
+113,Oslo
+114,SP
+115,Alabama
+116,Denmark
+117,Iowa
+118,Nuevo León
+119,Schwyz
+120,IN
+121,Copenhagen
+122,Sweden
+123,mo
+124,UT
+125,Missouri
+126,Utah
+127,Uusimaa
+128,CH
+129,ny
+130,Skane County
+131,Oxfordshire
+132,Surrey
+133,New Taipei City
+134,Kanagawa
+135,AR
+136,Gästrikland
+137,Middle Jutland
+138,Switzerland
+139,Ile-de-France
+140,NM
+141,Stockholm County
+142,Nuevo Leon
+143,NH
+144,Delaware
+145,UK
+146,Luxembourg
+147,Virginia 
+148,Oregon
+149,Norfolk
+150,Gauteng
+151,Kansas
+152,Nederland
+153,NE
+154,U.P.
+155,DK
+156,Rhode Island
+157,New South Wales (NSW)
+158,United Kingdom
+159,Michigan 
+160,OK
+161,Zug
+162,Schleswig-Holstein
+163,Skåne
+164,Florence
+165,AB
+166,WV
+167,LA
+168,Romania
+169,South Carolina
+170,Oklahoma
+171,Bayern
+172,AL
+173,Greater London
+174,West-Vlaanderen
+175,"55077"
+176,New Hampshire
+177,Japan
+178,Victoria
+179,Alberta
+180,Hauts-de-Seine
+181,South Denmark
+182,ky
+183,Maine
+184,NV
+185,Limburg
+186,AK
+187,Singapore
+188,Alaska
+189,Provence-Alpes-Cote d'Azur
+190,NY 
+191,New South Wales
+192,Hong Kong
+193,Ga
+194,IL 
+195,Tokyo
+196,Vermont
+197,Taiwan
+198,fl
+199,NRW
+200,North Rhine-Westphalia 
+201,MS
+202,KS
+203,va
+204, New York
+205,Lower Saxony
+206,Nevada
+207,"94086"
+208,IA
+209,Stezzano
+210,New York 
+211,.
+212,Helsinki
+213,Nebraska
+214,in
+215,New Mexico
+216,Rheinland-Pfalz
+217,AG
+218,ZH
+219,Nottinghamshire
+220,QC
+221,West Midlands
+222,Leeds
+223,HI
+224,Italy
+225,Styria
+226,County Armagh
+227,Vizcaya
+228,Western Australia
+229,Roma
+230,N.W.
+231,Ohio 
+232,ID
+233,md
+234,Tn
+235,Kanto
+236,Harju maakond
+237,Telangana
+238,NY.
+239,"01824"
+240,"Wichita, KS"
+241,Lombardy
+242,Walloon Region
+243,A Coruña
+244,North East
+245,East Flanders
+246,az
+247,Madrid
+248,Cheshire
+249,Milan
+250,Oftringen
+251,Tamil Nadu
+252,or
+253,Barcelona
+254,BS
+255,ME
+256,Spain
+257,Île de France
+258,sd
+259,Ca
+260,DISTRICT OF COLUMBIA
+261,VT
+262,BC
+263,Louisiana
+264,WA 
+265,Hawaii
+266,ne
+267,CO - Colorado
+268,Essex
+269,"Plymouth Meeting, PA, "
+270,wi
+271,Primary Offices
+272,SD
+273,ms
+274,Seine-Saint-Denis
+275,co
+276,Brussels
+277,CALIFORNIA
+278,Tx
+279,"28801"
+280,Baden-Würtemberg
+281,Bedfordshire
+282,Il
+283,vt
+284,Community of Madrid
+285,Nordrhein-Westfalen
+286,Vaud
+287,Genève
+288,Mississippi
+289,Hauts-de-France
+290,"40223"
+291,mn
+292,Qc
+293,Iceland
+294,QLD
+295,Iowa 
+296,Zuid-Limburg
+297,VIC
+298,West Flanders
+299,Md.
+300,GE
+301,IdF
+302,nc
+303,Warrington
+304,Lombardia
+305,Greater Manchester
+306,MA 
+307,SAR
+308,Bermuda
+309,North Dakota
+310,Queensland
+311,Western North Carolina
+312,Gujarat
+313,Aargau
+314,Hyogo
+315,South Dakota
+316,Alpes Maritimes
+317,Rio Grande do Sul
+318,Wisconsin 
+319,MC
+320,In
+321,PA 18916
+322,Tamilnadu
+323,Germany
+324,NS
+325,ga
+326,NB
+327,ND
+328,Buckinghamshire
+329,West Virginia
+330,oh
+331,Waikato
+332,New Jersey 
+333,County / Dublin postal district
+334,Al
+335,MASSACHUSETTS
+336,PENNSYLVANIA
+337,israel
+338,MUMBAI
+339,East Sussex
+340,Dublin
+341,"Bassett, VA"
+342,Beverly Hills
+343,Budapest
+344,Brussels Region
+345,Californië
+346,Comunidad de Madrid
+347,WY
+348,MT
+349,Pa
+350,County Antrim
+351,Vorarlberg
+352,North Yorkshire
+353,AUK
+354,North Rhine Westphalia
+355,Ontario 
+356,K
+357,California 
+358,British Columbia
+359,TENNESSEE
+360,Mo
+361,AL - Alabama
+362,PA 
+363,Wiltshire
+364,"11th Floor"
+365,"21146"
+366,Vicenza
+367,"University Park, IL"
+368,Flevoland
+369,Taipei
+370,Belgium
+371,Courbevoie
+372,Basel-Country
+373,Paris Area
+374,Netherlands
+375,VI
+376,Jebel Ali
+377,ia
+378,Valby
+379,N.C.
+380,"49423"
+381,TS
+382,Worldwide
+383,sc
+384,
+385,SZ
+386,AMSTERDAM
+387,Brisbane
+388,Neuchâtel
+389,Guangdong
+390,Noord Brabant
+391,"Germany, India, China"
+392,Tyne and Wear
+393,globally
+394,Missouri 
+395,USA
+396,Gtr Manchester
+397,Marches
+398,Luton
+399,Shanghai
+400,Haryana
+401,La
+402,N.D.
+403,Neuhausen am Rheinfall
+404,Northamptonshire
+405,Mauritius
+406,Skane
+407,Monterrey N.L
+408,Kent
+409,MI - Michigan
+410,UAE
+411,Nangang District
+412,District of Columbia (D.C.)
+413,Milano
+414,Rio de Janeiro
+415,Oh
+416,PR
+417,New Delhi
+418,Leicestershire
+419,DF
+420,New Brunswick
+421,IN/FL/IL
+422,SHANGHAI
+423,Aarhus
+424,Maharastra
+425,Brabant
+426,DALLAS
+427,Colorado/Utah
+428,London 
+429,D.C
+430,Wi
+431,Berlin
+432,Minnesota (MN)
+433,Federal Capital
+434,Firenze
+435,Gloucestershire
+436,Australia
+437,Monmouthshire
+438,Changzhou
+439,Tyne & Wear
+440,virginia
+441, Chorley 
+442,Israel
+443,Staffordshire
+444,......
+445,Mn
+446,"99669"
+447,福建
+448,Normandie
+449,County Dublin
+450,Aberdeenshire
+451,WI - Wisconsin
+452,NL
+453,Otago
+454,"Western Australia, AU"
+455,Metro Manila
+456,NEW JERSEY (NJ)
+457,California (CA)
+458,N.J.
+459,Hanover
+460,Qld
+461,Devon
+462,"Cheshire,"
+463,Jersey
+464,number:17
+465,MINNESOTA
+466,Anhui
+467,Gyeonggi-do
+468,NC 
+469,County Durham
+470,Beijing
+471,Ga.
+472,CA - California
+473,Shizuoka
+474,NEW YORK
+475,Dubai
+476,"CA, San Diego "
+477,CONNECTICUT
+478,West Yorkshire
+479,United States
+480,Wyoming
+481,Or
+482,Colorado 
+483,RE
+484,Remote
+485,NEW JERSEY
+486,Tehran
+487,"94545"
+488,Texas (TX)
+489,NV - Nevada
+490,Co. Down
+491,maryland
+492,CA 
+493,福建省
+494,TEXAS
+495,Misssouri
+496,South Australia
+497,Al.
+498,North-Rhine-Westphalia
+499,LONDON
+500,Centre-Val de Loire
+501,HCMC
+502,Hong Kong 
+503,Hungary
+504,ZG
+505,OHIO
+506,Zhejiang
+507,Valencian Community
+508,Greater London 
+509,Alto Adige
+510,(TN)
+511,Caroline du Nord
+512,Florida / Canada 
+513,|
+514,Manitoba
+515,Jiangsu
+516,WASHINGTON
+517,Wellington
+518,mi
+519,Illinos
+520,Arizona 
+521,Lancashire
+522,Wa
+523,Pennsylvania 
+524,Washington D.C. 
+525,Åland
+526,Vilniaus
+527,Puerto Rico
+528,Ky
+529,Malta
+530,Global
+531,Panamá
+532,Brooklyn
+533,MD 
+534,ON - Ontario
+535,Cambs
+536,Louisiana (LA)
+537,Hovedstaden
+538,Northern Ostrobothnia
+539,FLORIDA
+540,Overijssel
+541,New York [NY]
+542,Italia
+543,Skåne County
+544,广东省
+545,"Lincolnwood, Illinois"
+546,GNG
+547,Kerala
+548,"84401"
+549,OR - Oregon
+550,Salzburg
+551,Shenzhen 
+552,Coral Gables
+553,Galicia
+554,Flemish Region
+555,Office Address
+556,Cork
+557,City of London
+558,City and County of Cardiff
+559,Fribourg/Freiburg
+560,Bremen
+561,North Carolina 
+562,US
+563,Södermanland
+564,P. R. C.
+565,Andhra Pradesh
+566,Texas - TX
+567,China
+568,Fully Remote
+569,Hawaii 
+570,Picardie
+571,MISSISSIPPI
+572,Scotland
+573,State/Provincewide
+574,Telangan
+575,Kansas 
+576,St Gallen
+577,Antwerp
+578,\​
+579,Bern
+580,ILLINOIS
+581,TX - Texas
+582,IN - Indiana
+583,Strand
+584,NY - New York
+585,ARIZONA
+586,NA
+587,Taiepi City
+588,浙江
+589,Massachusetts 
+590,UP
+591,Gelderland
+592,FU JIAN
+593,Capital Region
+594,Saskatchewan
+595,Hi
+596,L6H 1A7
+597,North-Holland
+598, MA 
+599,Lvivska
+600,NORTH CAROLINA
+601,Isfahan
+602,MD (Maryland)
+603,MAINE
+604,Online
+605,Virgina
+606,Texas 
+607,West Midlands 
+608,Hampshire
+609,Wyoming 
+610,South Jutland
+611,ile de france
+612,Idaho 
+613,New York (NY)
+614,Punjab
+615,Californie
+616,Tirol
+617,Basel-Town
+618,Florida 
+619,Catalonia
+620,DE 
+621,Somerset
+622,Long Island
+623,tamil nadu
+624,New york
+625, D.C.
+626,West Bengal
+627,"New York, NY"
+628,Ny
+629,Occitanie
+630,San José
+631,Cambodia
+632,Antrim
+633,Xitun District
+634,南部科學園區
+635,NewJersey
+636,Tyne & Wear 
+637,Western Cape
+638,West Chester
+639,Champaign
+640,ct
+641,Sofia City
+642,MN 
+643,Illinois 
+644,West Point
+645,England 
+646,Washington 
+647,CA California
+648,Washington (WA)
+649,County Cavan
+650,Bucharest
+651,Az
+652,Skærbæk
+653,Gyeonggi
+654,Danmark
+655,"85226"
+656,Dorset
+657,Canton of Vaud
+658,"97224"
+659,AZ - Arizona
+660,United Kingdom 
+661,경기도
+662,Basel-Stadt
+663,Antioquia
+664,Wellington Region
+665,LA - Louisiana
+666,TX 
+667,Amstelplein
+668,WISCONSIN
+669,Ciudad de México
+670,Utah 
+671,"Avon,"
+672,Tyrol
+673,Minnesota 
+674,Buskerud
+675,Rajasthan
+676,OKlahoma
+677,Harayana 
+678,Delhi
+679,Rogaland
+680,OH Ohio
+681,Kesklinna linnaosa
+682,Attikí
+683,广东
+684,Solihull
+685,Schaffhausen
+686,San Salvador
+687,Florida (FL)
+688,ENGLAND
+689,Lincolnshire
+690,Kwazulunatal
+691,haryana
+692,d.c.
+693,Ontairo
+694,COLORADO (CO)
+695,Gauting
+696,Texas [TX]
+697,Gavleborg County
+698,Dhaka
+699,湖南
+700,Ciudad autónoma de Buenos Aires
+701,Îledefrance
+702,Texas - USA
+703,Louisiana 
+704,HM
+705,"Saitama, Tokyo"
+706,Nv
+707,Basildon
+708,Washington DC
+709,"1828 Swift Street"
+710,MO - Missouri
+711,Francisco Morazán
+712,WASHINGTON DC
+713,N.C. 
+714,georgia
+715,Auckland 
+716,"England, United Kingdom"
+717,UK/ USA
+718,Atlanta GA
+719,India
+720,Durham 
+721,Japan 
+722,Oost-Vlaanderen
+723, CA
+724,Treviso
+725,Gurgaon
+726,Prague
+727,UTAH
+728,Zürich
+729,Qld 
+730,Maryland 
+731,Telangana 
+732,Colorado (CO)
+733,DELHI
+734,Northern Ireland
+735,Id
+736,安徽省
+737,B.C.
+738,Bologna
+739,Indonesia
+740,Braşov
+741,UK 
+742,OKLAHOMA
+743,Massachussetts 
+744,FL 
+745,TX  
+746,Nairobi
+747,Mazowieckie
+748,Greater Manchester 
+749,Madhya Pradesh
+750,TELANGANA
+751,RJ
+752,Kyiv
+753,TEXAS (TX)
+754,WC
+755,Hong Kong Island
+756,Shanghai Jing’An
+757,karnataka
+758,GEORGIA
+759,Attiki
+760,Berkshire 
+761,MH
+762,Mpumalanga
+763,Karnataka 
+764,"2141 s 211th St #G"
+765,UT Utah
+766,FRANCE
+767,Puerto Rico 
+768,caracas 
+769,Eastern Cape
+770,Fujian
+771,Chicago
+772,Kingston
+773,Louisianna
+774,North Vancouver
+775,Rome
+776,new jersey
+777,california
+778,Indiana 
+779,DC Metropolitan Area
+780,Balearic Islands
+781,National Capital Region
+782,District of Columbia 
+783,lower dir
+784,US state
+785,State
+786,United State Of America 
+787,Manhattan 
+788,New york  
+789,"8815 Conroy Windermere Rd, STE 108"
